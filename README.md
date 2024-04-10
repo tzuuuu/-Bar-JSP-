@@ -1,5 +1,4 @@
 # 1112 網路程式設計 期末專題
-***
 1. 主題：電子商務網站（看Bar!線上書店）
 2. 開發語言：JavaScript/JavaServer Pages/MySQL/html/css/
 3. 系統架構圖 <br>
