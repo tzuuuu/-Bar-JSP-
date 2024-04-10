@@ -3,8 +3,8 @@
 1. 主題：電子商務網站（看Bar!線上書店）
 2. 開發語言：JavaScript/JavaServer Pages/MySQL/html/css/
 3. 系統架構圖 <br>
-<img width="466" alt="image" src="https://github.com/wayhong0928/jsp/assets/116798227/e52d4cc1-5201-49ff-b6b9-d19894f47d8b">
-5. 組員分工表
+<img width="466" alt="image" src="https://github.com/wayhong0928/jsp/assets/116798227/e52d4cc1-5201-49ff-b6b9-d19894f47d8b"> <br>
+4. 組員分工表
     <table>
       <tr>
           <td>名字</td>
